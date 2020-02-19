@@ -26,7 +26,7 @@ li a {
 }
 
 li a:hover:not(.active) {
-  background-color: #f18904;
+  background-color: #9e9a91;
 }
 
 .active {
@@ -47,10 +47,10 @@ li a:hover:not(.active) {
 }
 
 h1 {
-  border: 2px solid #f18904;
+  border: 2px solid #9b1426;
   padding: 10px;
   color: white;
-  background-color: #f49f05;
+  background-color: #922613;
   font-family: "Bangers", cursive;
   text-align: center;
 }
@@ -81,12 +81,12 @@ div > p {
 }
 
 .item {
-  border: 2px solid #f18904;
+  border: 2px solid #9b1426;
   text-align: center;
   margin: 20px;
 }
 .item-text {
-  border: 2px solid #f18904;
+  border: 2px solid #9b1426;
   text-align: center;
   padding: 10px;
   font-family: "Bangers", cursive;
@@ -98,7 +98,7 @@ div > p {
 img {
   height: 400px;
   width: 100%;
-  border-bottom: 2px solid #f18904;
+  border-bottom: 2px solid #9b1426;
 }
 
 .col {
@@ -109,10 +109,10 @@ img {
   align-items: center;
 }
 footer {
-  border: 2px solid #f18904;
+  border: 2px solid #9b1426;
   padding: 10px;
   color: white;
-  background-color: #f49f05;
+  background-color: #922613;
   font-family: "Bangers", cursive;
   text-align: center;
 }
@@ -121,7 +121,7 @@ footer {
 @media only screen and (max-width: 400px) {
   img {
     width: 100%;
-    border-bottom: 2px solid #f18904;
+    border-bottom: 2px solid #332305;
   }
   h1 {
     font-size: 35px;
